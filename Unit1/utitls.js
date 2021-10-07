@@ -2,9 +2,7 @@
 var module = "Este es mi modulo!"; 
 
 export default class myUtils{
-        constructor(){
-
-        };
+        constructor(){};
 }
 
 export function validateWord(variable, palabra){
@@ -13,3 +11,6 @@ export function validateWord(variable, palabra){
         };
         return false;
 }
+
+
+
